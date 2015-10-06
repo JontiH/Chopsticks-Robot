@@ -54,7 +54,7 @@ def main():
                 isSplit = True
             elif state == 6 :
                 if ai.split(leftHandNumber, rightHandNumber) is True:
-                 #  ret = ai.split(leftHandNumber, rightHandNumber)
+                  ret = ai.split(leftHandNumber, rightHandNumber)
                     
                     
                     
